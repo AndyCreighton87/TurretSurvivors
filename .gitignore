@@ -8,8 +8,8 @@ Assets/*
 Assets/TurretSurvivors/*
 
 # But keep the Scripts folder and its contents
-!Assets/Floomp/Scripts/
-!Assets/Floomp/Scripts/**
+!Assets/TurretSurvivors/Scripts/
+!Assets/TurretSurvivors/Scripts/**
 
 # Exclude meta files for assets that are ignored
 Assets/*.meta
